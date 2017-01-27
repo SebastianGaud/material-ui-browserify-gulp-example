@@ -1,10 +1,10 @@
 {
-  "name": "material-ui-example-browserify",
+  "name": "material-ui-browserify-gulp-example",
   "version": "0.15.0",
   "description": "Sample project that uses Material-UI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/callemall/material-ui.git"
+    "url": "https://github.com/callemall/material-ui-browserify-gulp-example.git"
   },
   "scripts": {
     "start": "gulp"
